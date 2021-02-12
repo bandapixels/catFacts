@@ -1,0 +1,18 @@
+.list-item {
+    display: flex;
+}
+
+.item-cat-wrapper {
+    text-align: center;
+}
+
+.go-back-btn {
+    position: absolute;
+    left: 20px;
+    top: 20px;
+    border: 0;
+    background-color: #99bbff;
+    padding: 10px;
+    color: #ffffff;
+    border-radius: 5px;
+}

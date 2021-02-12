@@ -1,0 +1,15 @@
+.cat-list-wrapper {
+    margin: 90px auto 100px;
+    padding: 0 60px;
+}
+
+.cat-list {
+    max-width: 1500px;
+    margin: 0 auto;
+}
+
+.cat-item {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
